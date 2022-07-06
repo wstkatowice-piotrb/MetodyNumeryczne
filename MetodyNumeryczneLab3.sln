@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodyNumeryczneLab3", "src\MetodyNumeryczneLab3.csproj", "{B7FD4D40-707A-464D-B0A0-436BEAA80E55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodyNumeryczneLab3.TestyJednostkowe", "tests\MetodyNumeryczneLab3.TestyJednostkowe\MetodyNumeryczneLab3.TestyJednostkowe.csproj", "{4132D4EA-3DB8-4C32-94D6-C7FDB4B64F7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7FD4D40-707A-464D-B0A0-436BEAA80E55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7FD4D40-707A-464D-B0A0-436BEAA80E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7FD4D40-707A-464D-B0A0-436BEAA80E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7FD4D40-707A-464D-B0A0-436BEAA80E55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4132D4EA-3DB8-4C32-94D6-C7FDB4B64F7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4132D4EA-3DB8-4C32-94D6-C7FDB4B64F7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4132D4EA-3DB8-4C32-94D6-C7FDB4B64F7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4132D4EA-3DB8-4C32-94D6-C7FDB4B64F7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

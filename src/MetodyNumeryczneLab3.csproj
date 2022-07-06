@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <Authors>Piotr Bułkowski nr albumu 11036</Authors>
+        <Description>Laboratorium nr 3 metody numeryczne - metoda bisekcji oraz siecznych</Description>
+    </PropertyGroup>
+
+</Project>
